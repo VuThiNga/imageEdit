@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/btn_colorchange"
+        android:icon="@drawable/ic_color"
+        android:title="Color Change"
+        app:showAsAction="always"/>
+    <item android:id="@+id/btn_addframe"
+        android:icon="@drawable/ic_addframe"
+        android:title="Frame"
+        app:showAsAction="always"/>
+    <item android:id="@+id/btn_crop"
+        android:icon="@drawable/ic_crop"
+        android:title="Crop And Rotate"
+        app:showAsAction="always"/>
+    <item android:id="@+id/btn_addfun"
+        android:icon="@drawable/ic_addfunction"
+        android:title="Other"
+        app:showAsAction="always"/>
+
+</menu>
